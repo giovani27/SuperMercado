@@ -1,0 +1,30 @@
+.container{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+
+}
+
+.PrincipalProd{
+    display: inline-block;
+    padding: 5px;
+
+}
+
+.cardProd{
+    border: 2px solid black;
+    margin: 20px;
+    
+}
+.CardImg{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.btn{
+    width: 100%;
+
+}

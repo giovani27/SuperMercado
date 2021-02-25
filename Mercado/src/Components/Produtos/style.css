@@ -1,0 +1,40 @@
+.container{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+
+}
+
+.PrincipalProd{
+    display: inline-block;
+    padding: 5px;
+
+}
+
+.cardProd{
+    border: 2px solid black;
+    margin: 20px;
+    
+}
+.CardImg{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 8;
+
+}
+.botaos{
+    flex-direction: row;
+}
+.btn{
+    width: 50%;
+
+}
+.btnexcluir{
+    width: 50%;
+position: relative;
+bottom: 150px;
+z-index: 9;
+}
